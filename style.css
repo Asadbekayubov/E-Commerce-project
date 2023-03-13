@@ -10,3 +10,8 @@
     background-color: aqua;
     text-align: center;
 }
+
+.header h1{
+    color:blue;
+    font-size:40px;
+}
